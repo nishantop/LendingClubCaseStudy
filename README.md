@@ -16,7 +16,6 @@ The objective is to look at the existing cutomer data and using Exploratory Data
 
 ## General Information
 - Group Facilitator - Nishant Raj
-- Group Member - Ajay Ratnu
 - The objective is to identify patterns within the data that can tell if a person is likely to default or not.
 - Raw data with > 31000 customer details.
 - Loan issuance and disposition data from Consumer Finance company.
@@ -49,7 +48,7 @@ The objective is to look at the existing cutomer data and using Exploratory Data
 
 
 ## Contact
-Created by [@ajayantrix] & [@nishantop] - feel free to contact us!
+Created by  [@nishantop] - feel free to contact us!
 
 
 <!-- Optional -->
